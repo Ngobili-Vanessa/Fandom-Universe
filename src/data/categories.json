@@ -1,0 +1,44 @@
+[
+  {
+    "id": "anime",
+    "name": "Anime",
+    "description": "Explore anime series, characters, trailers, events and more.",
+    "image": ""
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "description": "Discover games, characters, releases, events and gaming culture.",
+    "image": ""
+  },
+  {
+    "id": "movies",
+    "name": "Movies",
+    "description": "Discover movies, trailers, characters, releases and cinematic stories.",
+    "image": ""
+  },
+  {
+    "id": "tv-shows",
+    "name": "TV Shows",
+    "description": "Explore trending and upcoming TV shows, characters and episodes.",
+    "image": ""
+  },
+  {
+    "id": "k-pop",
+    "name": "K-Pop",
+    "description": "Discover K-Pop artists, releases, events, music and fandom culture.",
+    "image": ""
+  },
+  {
+    "id": "comics",
+    "name": "Comics",
+    "description": "Explore comic characters, stories, releases and the worlds behind them.",
+    "image": ""
+  },
+  {
+    "id": "manga",
+    "name": "Manga",
+    "description": "Discover manga series, characters, releases and stories.",
+    "image": ""
+  }
+]

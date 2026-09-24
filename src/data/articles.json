@@ -1,0 +1,16 @@
+[
+  {
+    "id": "anime-001",
+    "category": "anime",
+    "title": "The Evolution of Modern Anime",
+    "description": "A look at how modern anime has shaped global entertainment and fandom culture.",
+    "content": "Anime has grown from a regional form of animation into a major part of global pop culture...",
+    "image": "",
+    "author": "MaxView Editorial",
+    "date": "2026-09-20",
+    "tags": ["anime", "culture", "entertainment"],
+    "featured": true,
+    "likes": 0,
+    "comments": []
+  }
+]
